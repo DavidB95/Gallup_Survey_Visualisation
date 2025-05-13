@@ -1,0 +1,148 @@
+Country name,Life Evaluation Score,Happiness Ranking,Geographic region
+Finland,7.736,1,Europe
+Denmark,7.521,2,Europe
+Iceland,7.515,3,Europe
+Sweden,7.345,4,Europe
+Netherlands,7.306,5,Europe
+Costa Rica,7.274,6,Latin America & the Caribbean
+Norway,7.262,7,Europe
+Israel,7.234,8,Middle East & North Africa
+Luxembourg,7.122,9,Europe
+Mexico,6.979,10,North America
+Australia,6.974,11,Australia and Oceania
+New Zealand,6.952,12,Australia and Oceania
+Switzerland,6.935,13,Europe
+Belgium,6.91,14,Europe
+Ireland,6.889,15,Europe
+Lithuania,6.829,16,Europe
+Austria,6.81,17,Europe
+Canada,6.803,18,North America
+Slovenia,6.792,19,Europe
+Czech Republic,6.775,20,Europe
+United Arab Emirates,6.759,21,Middle East & North Africa
+Germany,6.753,22,Europe
+United Kingdom of Great Britain and Northern Ireland,6.728,23,Europe
+United States of America,6.724,24,North America
+Belize,6.711,25,Latin America & the Caribbean
+Poland,6.673,26,Europe
+Taiwan,6.669,27,Asia
+Uruguay,6.661,28,Latin America & the Caribbean
+Kosovo,6.659,29,Europe
+Kuwait,6.629,30,Middle East & North Africa
+Serbia,6.606,31,Europe
+Saudi Arabia,6.6,32,Middle East & North Africa
+France,6.593,33,Europe
+Singapore,6.565,34,Asia
+Romania,6.563,35,Europe
+Brazil,6.494,36,Latin America & the Caribbean
+El Salvador,6.492,37,Latin America & the Caribbean
+Spain,6.466,38,Europe
+Estonia,6.417,39,Europe
+Italy,6.415,40,Europe
+Panama,6.407,41,Latin America & the Caribbean
+Argentina,6.397,42,Latin America & the Caribbean
+Kazakhstan,6.378,43,Asia
+Guatemala,6.362,44,Latin America & the Caribbean
+Chile,6.361,45,Latin America & the Caribbean
+Vietnam,6.352,46,Asia
+Nicaragua,6.33,47,Latin America & the Caribbean
+Malta,6.316,48,Europe
+Thailand,6.222,49,Asia
+Slovakia,6.221,50,Europe
+Latvia,6.207,51,Europe
+Oman,6.197,52,Middle East & North Africa
+Uzbekistan,6.193,53,Asia
+Paraguay,6.172,54,Latin America & the Caribbean
+Japan,6.147,55,Asia
+Bosnia and Herzegovina,6.136,56,Europe
+Philippines,6.107,57,Asia
+South Korea,6.038,58,Asia
+Bahrain,6.03,59,Middle East & North Africa
+Portugal,6.013,60,Europe
+Colombia,6.004,61,Latin America & the Caribbean
+Ecuador,5.965,62,Latin America & the Caribbean
+Honduras,5.964,63,Latin America & the Caribbean
+Malaysia,5.955,64,Asia
+Peru,5.947,65,Latin America & the Caribbean
+Russia,5.945,66,Europe
+Cyprus,5.942,67,Europe
+China,5.921,68,Asia
+Hungary,5.915,69,Europe
+Trinidad and Tobago,5.905,70,Latin America & the Caribbean
+Montenegro,5.877,71,Europe
+Croatia,5.87,72,Europe
+Jamaica,5.87,73,Latin America & the Caribbean
+Bolivia,5.868,74,Latin America & the Caribbean
+Kyrgyzstan,5.858,75,Asia
+Dominican Republic,5.846,76,Latin America & the Caribbean
+Mongolia,5.833,77,Asia
+Mauritius,5.832,78,Sub−Saharan Africa
+Libya,5.82,79,Middle East & North Africa
+Moldova,5.819,80,Europe
+Greece,5.776,81,Europe
+Venezuela,5.683,82,Latin America & the Caribbean
+Indonesia,5.617,83,Asia
+Algeria,5.571,84,Middle East & North Africa
+Bulgaria,5.554,85,Europe
+North Macedonia,5.503,86,Europe
+Armenia,5.494,87,Europe
+Hong Kong,5.491,88,Asia
+Albania,5.411,89,Europe
+Tajikistan,5.411,90,Asia
+Georgia,5.4,91,Europe
+Nepal,5.311,92,Asia
+Laos,5.301,93,Asia
+Turkey,5.262,94,Middle East & North Africa
+South Africa,5.213,95,Sub−Saharan Africa
+Mozambique,5.19,96,Sub−Saharan Africa
+Gabon,5.12,97,Sub−Saharan Africa
+Côte d'Ivoire,5.102,98,Sub−Saharan Africa
+Iran,5.093,99,Middle East & North Africa
+Republic of the Congo,5.03,100,Sub−Saharan Africa
+Iraq,4.976,101,Middle East & North Africa
+Guinea,4.929,102,Sub−Saharan Africa
+Namibia,4.911,103,Sub−Saharan Africa
+Cameroon,4.887,104,Sub−Saharan Africa
+Nigeria,4.885,105,Sub−Saharan Africa
+Azerbaijan,4.875,106,Middle East & North Africa
+Senegal,4.856,107,Sub−Saharan Africa
+Palestine,4.78,108,Middle East & North Africa
+Pakistan,4.768,109,Middle East & North Africa
+Niger,4.725,110,Sub−Saharan Africa
+Ukraine,4.68,111,Europe
+Morocco,4.622,112,Middle East & North Africa
+Tunisia,4.552,113,Middle East & North Africa
+Mauritania,4.542,114,Sub−Saharan Africa
+Kenya,4.51,115,Sub−Saharan Africa
+Uganda,4.461,116,Sub−Saharan Africa
+Gambia,4.423,117,Sub−Saharan Africa
+India,4.389,118,Asia
+Chad,4.384,119,Sub−Saharan Africa
+Burkina Faso,4.383,120,Sub−Saharan Africa
+Benin,4.357,121,Sub−Saharan Africa
+Somalia,4.347,122,Middle East & North Africa
+Mali,4.345,123,Sub−Saharan Africa
+Cambodia,4.341,124,Asia
+Ghana,4.34,125,Sub−Saharan Africa
+Myanmar,4.321,126,Asia
+Togo,4.315,127,Sub−Saharan Africa
+Jordan,4.31,128,Middle East & North Africa
+Liberia,4.277,129,Sub−Saharan Africa
+Madagascar,4.157,130,Sub−Saharan Africa
+Zambia,3.912,131,Sub−Saharan Africa
+Ethiopia,3.898,132,Sub−Saharan Africa
+Sri Lanka,3.891,133,Asia
+Bangladesh,3.851,134,Asia
+Egypt,3.817,135,Middle East & North Africa
+Tanzania,3.8,136,Sub−Saharan Africa
+Eswatini,3.774,137,Sub−Saharan Africa
+Lesotho,3.757,138,Sub−Saharan Africa
+Comoros,3.754,139,Sub−Saharan Africa
+Yemen,3.561,140,Middle East & North Africa
+The Democratic Republic of the Congo,3.469,141,Sub−Saharan Africa
+Botswana,3.438,142,Sub−Saharan Africa
+Zimbabwe,3.396,143,Sub−Saharan Africa
+Malawi,3.26,144,Sub−Saharan Africa
+Lebanon,3.188,145,Middle East & North Africa
+Sierra Leone,2.998,146,Sub−Saharan Africa
+Afghanistan,1.364,147,Middle East & North Africa
